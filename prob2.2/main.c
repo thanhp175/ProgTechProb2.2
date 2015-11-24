@@ -7,9 +7,15 @@
 //
 
 #include <stdio.h>
+#include <math.h>
 
 int main(int argc, const char * argv[]) {
     // insert code here...
+    float radian;
+    printf("cosine(x) with x(rad)= ");
+    scanf("%f", &radian);
+    printf("cosine(x) = %f\n", cos(radian));
+    
     printf("Hello, World!\n");
     return 0;
 }
