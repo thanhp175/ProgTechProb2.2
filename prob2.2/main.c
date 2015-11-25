@@ -2,6 +2,8 @@
 //  main.c
 //  prob2.2
 //
+// Calculate trigonometric values of angle α entered by user
+// 
 //  Created by Thanh C. Tran on 24/11/15.
 //  Copyright © 2015 Thanh C. Tran. All rights reserved.
 //
